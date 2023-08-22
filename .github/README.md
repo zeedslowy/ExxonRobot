@@ -1,4 +1,4 @@
-<h1 align="center">ᴍᴜᴋᴇsʜ ʀᴏʙᴏᴛ</h1>
+<h1 align="center">[ Exxon ʀᴏʙᴏᴛ ]</h1>
 <p align="center">
   <img src="https://github.com/Noob-Mukesh/MukeshRobot/blob/main/MukeshRobot/resources/mukesh.jpg">
 </p>
@@ -42,43 +42,6 @@
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs/ʟᴏᴄᴀʟ 」─
 </h3>
-
-
-<h3>
-- <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
-</h3>
-
-- Get your [Necessary Variables](https://github.com/Noob-Mukesh/MukeshRobot/blob/main/MukeshRobot/config.py)
-- Upgrade and Update by :
-`sudo apt-get update && sudo apt-get upgrade -y`
-- Install required packages by :
-`sudo apt-get install python3-pip -y`
-- Install pip by :
-`sudo pip3 install -U pip`
-- Clone the repository by :
-`git clone https://github.com/Noob-Mukesh/MukeshRobot && cd MukeshRobot`
-- Install/Upgrade setuptools by :
-`pip3 install --upgrade pip setuptools`
-- Install requirements by :
-`pip3 install -U -r requirements.txt`
-- Fill your variables in config by :
-`vi MukeshRobot/config.py`
-
-Press `I` on the keyboard for editing config
-
-Press `Ctrl+C` when you're done with editing config and `:wq` to save the config
-- Install tmux to keep running your bot when you close the terminal by :
-`sudo apt install tmux && tmux`
-- Finally run the bot by :
-`python3 -m MukeshRobot`
-- For getting out from tmux session
-
-Press `Ctrl+b` and then `d`
-
-<p align="center">
-  <img src="https://te.legra.ph/file/5ab0e91166940c796f7dc.jpg">
-</p>
-
 
 ━━━━━━━━━━━━━━
 
